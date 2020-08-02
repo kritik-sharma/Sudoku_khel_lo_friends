@@ -1,0 +1,82 @@
+div.jumbotron div.container{
+	text-align: center;
+}
+h1.display-4{
+	text-decoration-style: solid;
+}
+div.jumbotron{
+	padding: 10px;
+	margin: 0px;
+}
+
+div.container{
+	width: 100%;
+	padding: 0px;
+	margin: auto;
+	text-align: center;
+}
+
+nav.navbar{
+	padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div.row{
+	margin: auto;
+	width: 100%;
+}
+
+nav{
+	text-align: center;
+}
+
+div.sudokucontainer{
+	padding: auto;
+	background-color: lightgrey;
+	border-style: double;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+div.row div.col4{
+	width: 33.33%;
+	text-align: center;
+}
+
+div.col4{
+	border-style:solid;
+	border-color: grey;
+	border-width: 1px 
+}
+
+div.container1, div.container2,div.container4, div.container5,div.container7, div.container8{
+	border-right-style: double;
+}
+div.container1, div.container2,div.container3, div.container4,div.container5, div.container6{
+	border-bottom-style: double;
+}
+
+button.btn.btn-light{
+	width: -webkit-fill-available;
+}
+div.numberbar{
+	background-color: grey;
+	padding: 10px;
+	margin-bottom: 2px;
+}
+div.numberrow{
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+
+button{
+	margin: 3px;
+}
+
+div.dropdown-menu.show{
+	text-align: center;
+	display: flex;
+}
